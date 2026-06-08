@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/api.ts","./src/main.tsx","./src/types.ts","./src/vite-env.d.ts","./src/components/codegenstep.tsx","./src/components/confidencebadge.tsx","./src/components/discoverystep.tsx","./src/components/gapstep.tsx","./src/components/observability.tsx"],"errors":true,"version":"5.7.2"}
